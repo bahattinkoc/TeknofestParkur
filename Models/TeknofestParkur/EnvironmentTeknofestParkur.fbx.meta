@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: e70b4b20687f9fd799f9c798f7f81018
+guid: 328ae90cc7145f93a851f9804620c3eb
 ModelImporter:
   serializedVersion: 19300
   InternalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CurveMaterial
+    second: {fileID: 2100000, guid: 15c741364fa160aeabe30ab2607ec31e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassMaterial
+    second: {fileID: 2100000, guid: e90a176bbd1a2af44932fde585c2e470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadMaterial
+    second: {fileID: 2100000, guid: 62bb93f13c2f33eeda25e952ca1c06f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallMaterial
+    second: {fileID: 2100000, guid: b6b6ec176eea1927484aeab646238867, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
