@@ -30,7 +30,7 @@ public class CheckerboardScript : MonoBehaviour {
 								, new Vector3(-30f, 2.5f, 85f)};
 
 	Vector3[] rotation_array = {new Vector3(-90f, 180f, 0f), new Vector3(-90f, 180f, -41f)
-								,new Vector3(-90f, 152f, -41f), new Vector3(-90f, -130f, -41f)
+								,new Vector3(-90f, 152f, -41f), new Vector3(-90f, 130f, -41f)
 								,new Vector3(-90f, 130f, -41f), new Vector3(-90f, 130f, -41f)
 								, new Vector3(-90f, 130f, -41f), new Vector3(-90f, 130f, -41f)
 								, new Vector3(-90f, 130f, -41f), new Vector3(-90f, 130f, -41f)
