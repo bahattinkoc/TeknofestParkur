@@ -24,7 +24,7 @@
 ![unity-project-screen](https://i.hizliresim.com/SSc7Vs.png)
 
 * Ardından build ettiğiniz klasöre gidip 'simulator' u çalıştırın. (ilk açtığınızda üyelik isteyebilir)
-   * Maps kısmına AssetsBundels klasöründeki TeknofestParkur dosyasını ekleyin
+   * Maps kısmına AssetsBundles klasöründeki TeknofestParkur dosyasını ekleyin
    * Vehicles kısmına ```https://assets.lgsvlsimulator.com/ea5e32fe566065c6d1bbf1f0728d6654c94e375d/vehicle_AWFLexus2016RXHybrid``` yazın
 
 * Daha sonra simulasyonu başlatabilirsiniz.
