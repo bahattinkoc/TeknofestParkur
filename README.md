@@ -4,7 +4,7 @@
 * (`~/simulator/Assets/External/Environments/`) adresini takip edin
 * Projeyi github'tan çekin
 ```sh
-   git https://github.com/bahattinkoc/TeknofestParkur.git
+   git clone https://github.com/bahattinkoc/TeknofestParkur.git
    ```
 * Unity'i açın
 * Projects kısmından simulator'u seçin
