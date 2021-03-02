@@ -11,7 +11,7 @@
 
 ![unity-project-screen](https://i.hizliresim.com/wwyIQ5.png)
 
-* Projects kısmından Assets/External/Environments/Parkur/ yolunu takip edin (Sol-alt kısımdaki pencere)
+* Projects kısmından Assets/External/Environments/TeknofestParkur/ yolunu takip edin (Sol-alt kısımdaki pencere)
 
 ![unity-project-screen](https://i.hizliresim.com/RMF2nS.png)
 
