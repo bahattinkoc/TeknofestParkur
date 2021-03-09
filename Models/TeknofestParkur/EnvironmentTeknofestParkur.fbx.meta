@@ -17,6 +17,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ParkingArea
+    second: {fileID: 2100000, guid: 26dc5533db48d172888d64eae0b4ad24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: RoadMaterial
     second: {fileID: 2100000, guid: 62bb93f13c2f33eeda25e952ca1c06f4, type: 2}
   - first:
