@@ -13,11 +13,11 @@
 
 * Projects kısmından Assets/External/Environments/TeknofestParkur/ yolunu takip edin (Sol-alt kısımdaki pencere)
 
-![unity-project-screen](https://i.hizliresim.com/RMF2nS.png)
+![unity-project-screen](https://i.hizliresim.com/vdhCDw.png)
 
 * Parkur.scene dosyasına çift tıklayarak sahneyi inceleyebilirsiniz. (Aşağı-ortadaki pencere)
 
-![unity-project-screen](https://i.hizliresim.com/2SOleU.png)
+![unity-project-screen](https://i.hizliresim.com/DvTtKa.png)
 
 * Simulator->Build kısmına gelip Build Simulator ve TeknofestParkuru işaretleyin
 
