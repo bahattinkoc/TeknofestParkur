@@ -28,7 +28,57 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: WallMaterial
-    second: {fileID: 2100000, guid: b6b6ec176eea1927484aeab646238867, type: 2}
+    second: {fileID: 2100000, guid: be731bcd2c7bc9b2180dc9828542e9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aesk
+    second: {fileID: 2100000, guid: c8fe649995a41d9abbf51844dacb21c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cam
+    second: {fileID: 2100000, guid: 3fbd7001d8f807a4f9ba4d8e14e47cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: 6f095e15f4a56600e91849cc825d62a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home1
+    second: {fileID: 2100000, guid: 27f55977198815ceaacb9c1989800585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home2
+    second: {fileID: 2100000, guid: 14469530513d04d948398cf318f90b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home3
+    second: {fileID: 2100000, guid: 6826e05ce1d7e6482af1bbe0afd70105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home4
+    second: {fileID: 2100000, guid: 929e0534308345aad8b6284c9049bf4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home5
+    second: {fileID: 2100000, guid: b22ca7414553a52c69bcd1cdc821a273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home6
+    second: {fileID: 2100000, guid: 786bf93cdd1a0f5b2818a662cd7b8ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ucak
+    second: {fileID: 2100000, guid: 42e471c453dfbbf2e95e2c93fc3adec1, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
