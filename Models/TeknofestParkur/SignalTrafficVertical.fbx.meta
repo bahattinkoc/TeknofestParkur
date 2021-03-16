@@ -3,7 +3,12 @@ guid: 350eefe5bb5a6c1129be461b228640f0
 ModelImporter:
   serializedVersion: 19300
   InternalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrafficLights
+    second: {fileID: 2100000, guid: 8ca69232ad05f3ab1994bb89c4f7a188, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -34,7 +39,7 @@ ModelImporter:
     IsReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
