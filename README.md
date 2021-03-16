@@ -25,6 +25,6 @@
 
 * Ardından build ettiğiniz klasöre gidip 'simulator' u çalıştırın. (ilk açtığınızda üyelik isteyebilir)
    * Maps kısmına AssetsBundles klasöründeki TeknofestParkur dosyasını ekleyin
-   * Vehicles kısmına ```https://assets.lgsvlsimulator.com/ea5e32fe566065c6d1bbf1f0728d6654c94e375d/vehicle_AWFLexus2016RXHybrid``` yazın
+   * Vehicles kısmına ```https://assets.lgsvlsimulator.com/d49c88a93b11b047a3e21e0c7d4b2ec6964fb16d/vehicle_Jaguar2015XE``` yazın
 
 * Daha sonra simulasyonu başlatabilirsiniz.
