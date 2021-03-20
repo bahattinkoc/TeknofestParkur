@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: df594e44cc16d614eaadf8e73b37d41a
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColliderMat
+    second: {fileID: 2100000, guid: 4216076338d64e348b055fe1fcde47b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEBody
+    second: {fileID: 2100000, guid: abead97cc3d4c1d42839c4a3608bf5a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEGlass
+    second: {fileID: 2100000, guid: e42359ec242f552428d1db42fff74bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEGlassLights
+    second: {fileID: 2100000, guid: 9a90ae24dbde6554e89b721e3f6c95e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorLeft
+    second: {fileID: 2100000, guid: 81ea7258d05f8424bad6bc50ad23b15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorReverse
+    second: {fileID: 2100000, guid: 6f8b838e32ec38242908dc6142acae39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorRight
+    second: {fileID: 2100000, guid: 011df86744a026c458b79a73dbdf20c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEInterior
+    second: {fileID: 2100000, guid: 4f053fccf92b31b41b93b76cc08fb86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XELightBrake
+    second: {fileID: 2100000, guid: 3092328176c52cb4ba794c3dead62bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XELightHead
+    second: {fileID: 2100000, guid: 6cc083dcf3bd0bb4592ec80cfc655616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMetalRough
+    second: {fileID: 2100000, guid: e20ebab2d333d294b8e7644373a0e54e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMetalSmooth
+    second: {fileID: 2100000, guid: 17cea2557f7692644998ceb673d88356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMirror
+    second: {fileID: 2100000, guid: 4e4b11d047f6e4a498f259e0f9da90f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEPlasticRough
+    second: {fileID: 2100000, guid: a2e6963bdec9238428422bb2659d1a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEPlasticSmooth
+    second: {fileID: 2100000, guid: d93a19432ae798d4a8b0a200936a2625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XETire
+    second: {fileID: 2100000, guid: 456fa6dde8f237941ad6d62450f4f32a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEBody
+    second: {fileID: 2100000, guid: 8a6ec7a237023364f9b4ae9b3c5d8738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEGlass
+    second: {fileID: 2100000, guid: 9f1ce74f8bd1cd04ab3d709e2cdeda7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEIndicatorLeft
+    second: {fileID: 2100000, guid: 37eac4973ab91784689303835c739d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEIndicatorReverse
+    second: {fileID: 2100000, guid: 2db2ce535a996f641933029033133043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEIndicatorRight
+    second: {fileID: 2100000, guid: a12d5c2ff9ad8c94d9a5fc7002642380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEInterior
+    second: {fileID: 2100000, guid: ec98e0d56dfd1734ca35ae60a222ef71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXELightBrake
+    second: {fileID: 2100000, guid: 04c3fdef8af7c7549bcddf9d036ca6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXELightHead
+    second: {fileID: 2100000, guid: 5eb2b6940075161459dd6476b58c6667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEMetalRough
+    second: {fileID: 2100000, guid: 5912f6883841cb64ab55009bc99858e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEMetalSmooth
+    second: {fileID: 2100000, guid: 3e5673f14f1a18e4ba3345c74cd7e766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEMirror
+    second: {fileID: 2100000, guid: 861de13a5c659de448e510e7e0a3f563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEPlasticRough
+    second: {fileID: 2100000, guid: ac3a7daf4e898464ca3191a484f47e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXEPlasticSmooth
+    second: {fileID: 2100000, guid: 483bd365e11465c4cb2f4710e4c57610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JaguarXETire
+    second: {fileID: 2100000, guid: be0b9321535a499468e14cbd5fc12474, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
