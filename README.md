@@ -28,3 +28,11 @@
    * Vehicles kısmına ```https://assets.lgsvlsimulator.com/d49c88a93b11b047a3e21e0c7d4b2ec6964fb16d/vehicle_Jaguar2015XE``` yazın
 
 * Daha sonra simulasyonu başlatabilirsiniz.
+
+## Tuş Kısayolları
+
+* ```Q```: checkerboard'u bir ileri götürür.
+
+* ```E```: checkerboard'u bir geri götürür.
+
+* ```T```: Trafik ışıklarını değiştirir.
