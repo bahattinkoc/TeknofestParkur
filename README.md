@@ -36,3 +36,5 @@
 * ```E```: checkerboard'u bir geri götürür.
 
 * ```T```: Trafik ışıklarını değiştirir.
+
+* ```P```: Yayayı harekete geçirir.
