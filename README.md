@@ -23,9 +23,9 @@
 
 ![unity-project-screen](https://i.hizliresim.com/SSc7Vs.png)
 
-* Ardından build ettiğiniz klasöre gidip 'simulator' u çalıştırın. (ilk açtığınızda üyelik isteyebilir)
-   * Maps kısmına AssetsBundles klasöründeki TeknofestParkur dosyasını ekleyin
-   * Vehicles kısmına ```https://assets.lgsvlsimulator.com/d49c88a93b11b047a3e21e0c7d4b2ec6964fb16d/vehicle_Jaguar2015XE``` yazın
+* Ardından Build Simulator klasörüne gidip 'simulator' u çalıştırın. (ilk açtığınızda üyelik isteyebilir)
+   * Maps kısmına Build Simulator klasörünün içindeki AssetsBundles klasöründeki TeknofestParkur dosyasının yolunu ekleyin.
+   * Vehicles kısmına ```https://assets.lgsvlsimulator.com/d49c88a93b11b047a3e21e0c7d4b2ec6964fb16d/vehicle_Jaguar2015XE``` ekleyin.
 
 * Daha sonra simulasyonu başlatabilirsiniz.
 
