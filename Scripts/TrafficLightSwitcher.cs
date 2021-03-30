@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class TrafficLightSwitcher : MonoBehaviour
 {
     public Material redLight, yellowLight, greenLight;
-    public GameObject obj1, obj2, obj3;
+    public GameObject obj1, obj2;
     int counter = 0;
 
     void Start()
@@ -35,6 +35,6 @@ public class TrafficLightSwitcher : MonoBehaviour
 
     void MaterialChanger(Material mat)
     {
-        obj1.GetComponent<MeshRenderer>().material = obj2.GetComponent<MeshRenderer>().material = obj3.GetComponent<MeshRenderer>().material = mat;
+        obj1.GetComponent<MeshRenderer>().material = obj2.GetComponent<MeshRenderer>().material = mat;
     }
 }
