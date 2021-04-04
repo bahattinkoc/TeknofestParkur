@@ -6,35 +6,62 @@ using UnityEngine.UI;
 public class TrafficLightSwitcher : MonoBehaviour
 {
     public Material redLight, yellowLight, greenLight;
-    public GameObject obj1, obj2;
-    int counter = 0;
+    public int counter = 0;
+    public float currentTime;
+    public bool isTimeOver;
 
     void Start()
     {
-        obj1.GetComponent<MeshRenderer>().material = redLight;
+        gameObject.GetComponent<MeshRenderer>().material = redLight;
+        currentTime = 10f;
+        isTimeOver = false;
     }
 
     void Update()
     {
+
         if (Input.GetKeyDown(KeyCode.T))
+        {
+            isTimeOver = true;
+            counter = ((counter + 1) > 2) ? 0 : counter + 1;
+        }
+
+
+        if (isTimeOver)
         {
             switch (counter)
             {
                 case 0:
+                    transform.parent.name = "tl_yellow";
+                    currentTime = 3f;
                     MaterialChanger(yellowLight); break;
 
                 case 1:
+                    transform.parent.name = "tl_green";
+                    currentTime = 10f;
                     MaterialChanger(greenLight); break;
 
                 case 2:
+                    transform.parent.name = "tl_red";
+                    currentTime = 10f;
                     MaterialChanger(redLight); break;
             }
-            counter = ((counter + 1) > 2) ? 0 : counter + 1;
+            isTimeOver = false;
         }
+        else
+        {
+            currentTime -= 1f * Time.deltaTime;
+            if (currentTime <= 0f)
+            {
+                isTimeOver = true;
+                counter = ((counter + 1) > 2) ? 0 : counter + 1;
+            }
+        }
+
     }
 
     void MaterialChanger(Material mat)
     {
-        obj1.GetComponent<MeshRenderer>().material = obj2.GetComponent<MeshRenderer>().material = mat;
+        gameObject.GetComponent<MeshRenderer>().material = mat;
     }
 }
