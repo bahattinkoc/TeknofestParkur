@@ -37,11 +37,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: cam
-    second: {fileID: 2100000, guid: 3fbd7001d8f807a4f9ba4d8e14e47cdf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: ground
     second: {fileID: 2100000, guid: 6f095e15f4a56600e91849cc825d62a2, type: 2}
   - first:
