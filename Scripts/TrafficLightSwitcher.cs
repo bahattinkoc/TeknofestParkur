@@ -33,16 +33,19 @@ public class TrafficLightSwitcher : MonoBehaviour
             {
                 case 0:
                     transform.parent.name = "tl_yellow";
+                    transform.parent.tag = "34";
                     currentTime = 3f;
                     MaterialChanger(yellowLight); break;
 
                 case 1:
                     transform.parent.name = "tl_green";
+                    transform.parent.tag = "10";
                     currentTime = 10f;
                     MaterialChanger(greenLight); break;
 
                 case 2:
                     transform.parent.name = "tl_red";
+                    transform.parent.tag = "35";
                     currentTime = 10f;
                     MaterialChanger(redLight); break;
             }
